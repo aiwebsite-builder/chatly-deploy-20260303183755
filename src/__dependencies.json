@@ -1,0 +1,12 @@
+{
+  "gsap": "latest",
+  "lucide-react": "latest",
+  "class-variance-authority": "latest",
+  "clsx": "latest",
+  "tailwind-merge": "latest",
+  "@radix-ui/react-slot": "latest",
+  "@radix-ui/react-dialog": "latest",
+  "@radix-ui/react-separator": "latest",
+  "@radix-ui/react-label": "latest",
+  "@radix-ui/react-avatar": "latest"
+}
